@@ -2,7 +2,7 @@
 #### A passionate frontend developer from Bangladesh
 I’m a highly motivated frontend Web Developer, skilled in creating modern and interactive web applications using React and Next JS. Committed to producing high-quality code and exceeding client expectations and a deep passion for delivering exceptional user experiences with the ability to adapt with new technologies. I am excited to contribute to a dynamic development team and help drive innovation in the industry.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Next JS / Typescript / Javascript / Express / Mongoose / Node JS
 
 - 🔭 I’m currently working on Infinite Mart Webiste 
 - 🌱 I’m currently learning Next Js, PostgreSQL, Docker 
