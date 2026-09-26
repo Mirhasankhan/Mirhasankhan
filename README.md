@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Mir Hasan</h1>
-<h3 align="center">Backend-Focused Full-Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">Backend-Focused Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
 I build robust, scalable backend systems and full-stack applications for international clients.
