@@ -2,8 +2,7 @@
 <h3 align="center">Full-Stack Developer from Bangladesh</h3>
 
 <p align="center">
-I build robust, scalable backend systems and full-stack applications for international clients.
-Comfortable owning a project end-to-end — from API design and database architecture to deployment.
+I build production-ready, high-traffic web systems with Node.js, NestJS, MongoDB, PostgreSQL, and TypeScript. As a backend-focused full-stack developer, I focus on scalable APIs, clean architecture, maintainable code, and practical solutions that perform reliably in production
 </p>
 
 ---
